@@ -1,0 +1,9 @@
+TERMOS DE USO E ISENÇÃO DE RESPONSABILIDADE
+
+Ao baixar, instalar ou utilizar este software, você concorda com estes termos:
+
+Sem Garantia: O software é fornecido gratuitamente ("free"), no estado atual, e o autor não garante que o software atenderá aos seus requisitos ou que a operação será ininterrupta ou livre de erros.
+
+Limitação de Responsabilidade: Em nenhuma circunstância o criador será responsável por perdas de dados, danos financeiros, travamentos de sistema ou quaisquer outros prejuízos decorrentes do uso deste software.
+
+Uso Seguro: É responsabilidade do usuário realizar testes antes de aplicar o software em ambiente de produção.
